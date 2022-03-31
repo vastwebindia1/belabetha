@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270436974965",
+    "project_id": "aasha-flutter",
+    "storage_bucket": "aasha-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270436974965:android:37237290b8a3e709fb133c",
+        "android_client_info": {
+          "package_name": "com.jstpay.jstpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270436974965-n9k3njpg3c1cc25s4sviupkv2mfp0roj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS94hfqZu827qBp_rPMxXWOsEHRD-jS5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270436974965-n9k3njpg3c1cc25s4sviupkv2mfp0roj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
